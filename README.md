@@ -1,16 +1,37 @@
-## Hi there 👋
+## Domenico Lupinetti
 
-<!--
-**Ostico/Ostico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director of Engineering at [@matecat](https://github.com/matecat) and Matesub, part of [@translated](https://github.com/translated). Rome, Italy.
 
-Here are some ideas to get you started:
+Most of my work is translation technology — CAT tooling, subtitling, the infrastructure underneath both — and lately the tooling that lets AI agents work on real codebases without making things worse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://github-views-counter.ostico.workers.dev/?username=Ostico&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-domenicolupinetti-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenicolupinetti)
+
+### What I build
+
+- **Translation platforms** — [MateCat](https://github.com/matecat/MateCat), an open-source AI-driven translation tool for language professionals, and [Matesub](https://matesub.com), a professional AI-driven subtitling editor.
+- **Agent tooling** — MCP servers, skills, and quality gates that give coding agents a deterministic surface to work against instead of guesswork.
+- **Databases and infrastructure** — drivers, replication setups, and the Docker/deployment plumbing that keeps the above running.
+
+### Selected projects
+
+Pinned on my profile, plus a couple more:
+
+| Project | What it is |
+| --- | --- |
+| [matecat/MateCat](https://github.com/matecat/MateCat) | The MateCat translation tool — open source, AI-driven, built for language professionals. |
+| [Signet-AI/signetai](https://github.com/Signet-AI/signetai) | Persistent memory and identity for AI agents, shared across harnesses instead of trapped in one session. |
+| [matecat/xliff-parser](https://github.com/matecat/xliff-parser) | XLIFF parser in PHP — the format every CAT tool has to agree on and none agree on completely. |
+| [bruno-mcp-studio](https://github.com/Ostico/bruno-mcp-studio) | MCP server for Bruno. An agent authors, reads, and runs `.bru` collections with byte-parity to Bruno itself — no `bru` CLI required. |
+| [Skills](https://github.com/Ostico/Skills) | Agent skills: adversarial plan review, parallel planning, QA plan generation, teaching a change until it is understood. |
+| [test-guard](https://github.com/Ostico/test-guard) | PR gate for test adequacy — coverage numbers plus heuristics plus a model, rather than a coverage threshold alone. |
+| [signet-first](https://github.com/Ostico/signet-first) | Memory-first protocol for agents: search before acting, store the conclusion, hand off between sessions. |
+
+### A thing I believe about agent tooling
+
+An agent reviewing its own work rationalises. Several independent ones, given hostile framing and no sight of each other's output, do not. Most of what I write in this space is some version of that idea.
+
+### Elsewhere
+
+- LinkedIn — [domenicolupinetti](https://www.linkedin.com/in/domenicolupinetti)
+- MateCat — [matecat.com](https://www.matecat.com)
