@@ -4,7 +4,7 @@ Director of Engineering at [@matecat](https://github.com/matecat) and Matesub, p
 
 Most of my work is translation technology — CAT tooling, subtitling, the infrastructure underneath both — and lately the tooling that lets AI agents work on real codebases without making things worse.
 
-![Profile views](https://github-views-counter.ostico.workers.dev/?username=Ostico&color=blueviolet)
+![Profile views](https://views.ostico.dev/?username=Ostico&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-domenicolupinetti-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenicolupinetti)
 
 ### What I build
