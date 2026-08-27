@@ -2,7 +2,7 @@
 
 Director of Engineering at [@matecat](https://github.com/matecat) and Matesub, part of [@translated](https://github.com/translated). Rome, Italy.
 
-Most of my work is translation technology — CAT tooling, subtitling, the infrastructure underneath both — and lately the tooling that lets AI agents work on real codebases without making things worse.
+Most of my work sits at the intersection of language and infrastructure — CAT tooling, subtitling, and the systems underneath them, and lately, I’ve been building the tooling that gives AI agents the freedom to work on real codebases almost autonomously, without giving up safety.
 
 ![Profile views](https://views.ostico.dev/?username=Ostico&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-domenicolupinetti-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenicolupinetti)
@@ -11,9 +11,9 @@ Most of my work is translation technology — CAT tooling, subtitling, the infra
 
 - **Translation platforms** — [MateCat](https://github.com/matecat/MateCat), an open-source AI-driven translation tool for language professionals, [Matesub](https://matesub.com), a professional AI-driven subtitling editor, [MyMemory](https://mymemory.translated.net/), the world’s largest Translation Memory.
 - **Agent tooling** — MCP servers, skills, and quality gates that give coding agents a deterministic surface to work against instead of guesswork.
-- **Databases and infrastructure** — drivers, replication setups, and the Docker/deployment plumbing that keeps the above running.
+- **Databases and infrastructure** — drivers, replication setups, horizontal scaling, and the Docker/deployment plumbing that keeps the above running.
 
-### Selected projects
+### Main projects
 
 Pinned on my profile, plus a couple more:
 
@@ -29,7 +29,7 @@ Pinned on my profile, plus a couple more:
 
 ### A thing I believe about agent tooling
 
-An agent reviewing its own work rationalises. Several independent ones, given hostile framing and no sight of each other's output, do not. Most of what I write in this space is some version of that idea.
+An agent reviewing its own work rationalises. Several independent ones, given hostile framing and no sight of each other's output, do not. I write my ideas about it in my space.
 
 ### Elsewhere
 
