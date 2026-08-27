@@ -9,7 +9,7 @@ Most of my work is translation technology — CAT tooling, subtitling, the infra
 
 ### What I build
 
-- **Translation platforms** — [MateCat](https://github.com/matecat/MateCat), an open-source AI-driven translation tool for language professionals, and [Matesub](https://matesub.com), a professional AI-driven subtitling editor.
+- **Translation platforms** — [MateCat](https://github.com/matecat/MateCat), an open-source AI-driven translation tool for language professionals, [Matesub](https://matesub.com), a professional AI-driven subtitling editor, [MyMemory](https://mymemory.translated.net/), the world’s largest Translation Memory.
 - **Agent tooling** — MCP servers, skills, and quality gates that give coding agents a deterministic surface to work against instead of guesswork.
 - **Databases and infrastructure** — drivers, replication setups, and the Docker/deployment plumbing that keeps the above running.
 
