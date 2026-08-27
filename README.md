@@ -35,10 +35,3 @@ An agent reviewing its own work rationalises. Several independent ones, given ho
 
 - LinkedIn — [domenicolupinetti](https://www.linkedin.com/in/domenicolupinetti)
 - MateCat — [matecat.com](https://www.matecat.com)
-
-
-
-![nostore](https://views.ostico.dev/probe?variant=nostore)
-![private](https://views.ostico.dev/probe?variant=private)
-![smaxage](https://views.ostico.dev/probe?variant=smaxage)
-![nocache](https://views.ostico.dev/probe?variant=nocache)
