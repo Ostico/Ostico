@@ -1,6 +1,8 @@
-## Domenico Lupinetti
-![Profile views](https://views.ostico.dev/c/Q6Lck3z4R3usFHWI?style=flat&color=blueviolet)
+## Domenico Lupinetti.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-domenicolupinetti-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenicolupinetti)
+![Profile views](https://views.ostico.dev/c/Q6Lck3z4R3usFHWI?style=flat&color=blueviolet)
+
 
 Director of Engineering at [@matecat](https://github.com/matecat) and Matesub, part of [@translated](https://github.com/translated). Rome, Italy.
 
