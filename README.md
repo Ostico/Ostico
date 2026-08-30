@@ -1,11 +1,10 @@
 ## Domenico Lupinetti
+![Profile views](https://views.ostico.dev/c/Q6Lck3z4R3usFHWI?style=flat&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-domenicolupinetti-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenicolupinetti)
 
 Director of Engineering at [@matecat](https://github.com/matecat) and Matesub, part of [@translated](https://github.com/translated). Rome, Italy.
 
 Most of my work sits at the intersection of language and infrastructure — CAT tooling, subtitling, and the systems underneath them, and lately, I’ve been building the tooling that gives AI agents the freedom to work on real codebases almost autonomously, without giving up safety.
-
-![Profile views](https://views.ostico.dev/c/Q6Lck3z4R3usFHWI?style=flat&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-domenicolupinetti-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenicolupinetti)
 
 ### What I build
 
@@ -36,5 +35,7 @@ An agent reviewing its own work rationalises. Several independent ones, given ho
 - LinkedIn — [domenicolupinetti](https://www.linkedin.com/in/domenicolupinetti)
 - MateCat — [matecat.com](https://www.matecat.com)
 
+-----
 
+#### Unique profile views
 ![views over time](https://views.ostico.dev/c/Q6Lck3z4R3usFHWI/chart?days=7)
