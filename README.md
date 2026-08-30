@@ -37,4 +37,4 @@ An agent reviewing its own work rationalises. Several independent ones, given ho
 - MateCat — [matecat.com](https://www.matecat.com)
 
 
-![views over time](https://views.ostico.dev/c/Q6Lck3z4R3usFHWI/chart)
+![views over time](https://views.ostico.dev/c/Q6Lck3z4R3usFHWI/chart?days=7)
